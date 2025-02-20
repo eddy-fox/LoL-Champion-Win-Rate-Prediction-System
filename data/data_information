@@ -1,0 +1,3 @@
+1. ranker_info_0205.csv : Ranker Information Data. Includes top players' main champions, number of games played, win rate, and primary position.
+2. match_combination.csv : Match Combination Data. Contains the champion composition for each game (Top, Jungle, Mid, Bottom, Support) and the match outcome (win/loss).
+3. 0205champ_list.csv : Champion List Data. Includes tier, rank, name, position, win rate, pick rate, ban rate, and play count.
