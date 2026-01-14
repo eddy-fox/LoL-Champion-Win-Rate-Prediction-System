@@ -1,4 +1,6 @@
 # LoL-champion-recommendation-system
+[여기](https://github.com/eddy-fox/LoL-Champion-Win-Rate-Prediction-System/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.ipynb)를 누르시면 포트폴리오로 이동합니다
+
 A Tier-Based Champion Recommendation System Considering Champion Synergy and Win Rate Based on League of Legends Champion Attributes
 
 League of Legends is a team-based MOBA game where strategic champion selection significantly impacts the outcome of matches. However, many players tend to stick to familiar champions, making it difficult for them to explore new options. Additionally, they often prioritize personal preferences over team synergy when selecting champions. This tendency can hinder the overall team composition and prevent players from fully considering counter-matchups, ultimately reducing the likelihood of making optimal choices in the game.
